@@ -13,8 +13,8 @@ packages:
     description:
       path: "packages/alert_dialogs"
       ref: HEAD
-      resolved-ref: d40f4cc52ccc20353833845f1d44fb66e794f4a0
-      url: "https://github.com/bizz84/codewithandrea_flutter_packages"
+      resolved-ref: e4437aca855811470010c26cab684b512c714f21
+      url: "https://github.com/jposor/flutter_packages"
     source: git
     version: "0.2.0"
   analyzer:
@@ -169,8 +169,8 @@ packages:
     description:
       path: "packages/custom_buttons"
       ref: HEAD
-      resolved-ref: d40f4cc52ccc20353833845f1d44fb66e794f4a0
-      url: "https://github.com/bizz84/codewithandrea_flutter_packages"
+      resolved-ref: e4437aca855811470010c26cab684b512c714f21
+      url: "https://github.com/jposor/flutter_packages"
     source: git
     version: "0.1.0"
   dart_style:
@@ -471,8 +471,8 @@ packages:
     description:
       path: "packages/string_validators"
       ref: HEAD
-      resolved-ref: d40f4cc52ccc20353833845f1d44fb66e794f4a0
-      url: "https://github.com/bizz84/codewithandrea_flutter_packages"
+      resolved-ref: e4437aca855811470010c26cab684b512c714f21
+      url: "https://github.com/jposor/flutter_packages"
     source: git
     version: "0.1.0"
   term_glyph:

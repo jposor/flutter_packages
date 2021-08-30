@@ -76,8 +76,8 @@ packages:
     description:
       path: "packages/firebase_auth_service"
       ref: HEAD
-      resolved-ref: "64550ae5b87ab9f8a6c72719aa4027ba8e375fb1"
-      url: "https://github.com/bizz84/codewithandrea_flutter_packages"
+      resolved-ref: e4437aca855811470010c26cab684b512c714f21
+      url: "https://github.com/jposor/flutter_packages"
     source: git
     version: "0.1.0"
   firebase_auth_web:
